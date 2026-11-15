@@ -1,0 +1,6 @@
+{
+  "name": "CryptoQuant",
+  "description": "AI-powered crypto trading bot with real-time technical analysis, automated Grid and Breakout execution, multimodal chart analysis, and Copilot reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
